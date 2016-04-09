@@ -1,0 +1,31 @@
+_repo: Paradise-Lost_20
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Milton, John
+    birthdate: 1608
+    deathdate: 1674
+    gutenberg_agent_id: '17'
+    url: http://www.gutenberg.org/2009/agents/17
+    wikipedia: http://en.wikipedia.org/wiki/John_Milton
+description: ''
+gutenberg_bookshelf:
+- Poetry
+- Banned Books from Anne Haight's list
+gutenberg_issued: '1991-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bible. Genesis -- History of Biblical events -- Poetry'
+- !lcsh 'Adam (Biblical figure) -- Poetry'
+- !lcsh 'Fall of man -- Poetry'
+- !lcsh 'Eve (Biblical figure) -- Poetry'
+- !lcc 'PR'
+- GITenberg
+title: Paradise Lost
+url: http://www.gutenberg.org/ebooks/20
